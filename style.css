@@ -1,0 +1,164 @@
+body {
+    background-color: black;
+    font-family: 'Poppins', sans-serif;
+    color: white;
+}
+
+nav {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+
+.navbar ul {
+    display: flex;
+}
+
+.navbar ul li {
+    list-style: none;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: white;
+    padding: 0px 30px;
+}
+
+#button {
+    background-color: #00EF77;
+    padding: 10px;
+    border-radius: 10px;
+    margin-left: 80px;
+    margin-bottom: 10px;
+}
+
+#button a {
+    text-decoration: none;
+    color: white;
+}
+
+.navbar {
+    margin-left: 100px;
+}
+
+span {
+    color: #00EF77;
+}
+
+button {
+    background-color: #00EF77;
+    padding: 15px 30px;
+    border-radius: 10px;
+    color: white;
+}
+
+header {
+    display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+header div {
+    width: 40%;
+    margin-left: 8%;
+
+}
+
+header div img {
+    height: 500px;
+    padding-left: 50px;
+
+}
+
+.header-itm {
+    padding-top: 100px;
+}
+
+main {
+    display: flex;
+    margin-bottom: 100px;
+}
+
+main div {
+    width: 40%;
+    margin-left: 8%;
+}
+
+main div img {
+    height: 500px;
+    width: 600px;
+
+}
+
+.main-itm {
+    padding-top: 100px;
+}
+
+.skill {
+    display: flex;
+}
+
+.skill div {
+    width: 40%;
+    margin-left: 8%;
+}
+
+.skill-itm {
+    padding-left: 10px;
+    border-left: 2px solid #00EF77;
+
+}
+
+.ul-designer {
+    display: flex;
+    padding-top: 100px;
+    margin-left: 8%;
+    margin-bottom: 100px;
+}
+
+.ul-designer div {
+    width: 25%;
+    border: 1px solid gray;
+    padding-left: 10px;
+    margin-left: 2%;
+    padding-bottom: 2px;
+    border-bottom: 2px solid white;
+    margin-bottom: 5px;
+}
+
+.solutions {
+    display: flex;
+}
+
+.solutions div {
+    width: 40%;
+    margin-left: 8%;
+}
+
+.solutions-itm {
+    padding-left: 10px;
+    border-left: 2px solid #00EF77;
+
+}
+
+.design {
+    display: flex;
+    padding-top: 100px;
+    margin-left: 8%;
+    margin-bottom: 100px;
+}
+
+.design div {
+    width: 25%;
+    padding-left: 10px;
+    margin-left: 2%;
+    background-color: #131617;
+    padding-top: 30px;
+    padding-bottom: 30px;
+
+}
+
+footer {
+    text-align: center;
+    margin-bottom: 50px;
+}
